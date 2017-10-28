@@ -1,0 +1,2 @@
+alias s='screen -dr'
+
